@@ -1,0 +1,32 @@
+h5{
+ font-family: Brush Script MT, Brush Script Std, cursive;
+ font-size: large;
+color: goldenrod;
+}
+div.parent{
+ background-color: black;
+}
+body{
+ background-color: black;
+}
+img.one{
+ text-align: left
+ 
+}
+img.two{
+ text-align: right;
+}
+h1{
+    color: white;
+}
+div.space{
+    padding-left: 170px;
+    padding-top: 100px;
+}
+li.list-group-item{
+    background-color: black;
+}
+.btn-warning{
+background-color:#c9ab81 !important;
+    border-radius: 0px!important;}
+
